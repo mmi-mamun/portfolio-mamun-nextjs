@@ -16,7 +16,7 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=Poppins&family=Raleway&display=swap" rel="stylesheet" /> */}
       </Head>
 
-      <Hero></Hero>
+      <Hero heading='Welcome to my website' message='I am Mamun from Dhaka, Bangladesh. I love to explore new things.'></Hero>
 
     </div>
   )
